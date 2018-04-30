@@ -1,0 +1,22 @@
+{
+  "name": "slush-mistack",
+  "version": "0.0.1",
+  "description": "opinionated web-app framework scaffolding",
+  "main": "slushfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ayan4m1/mistack.git"
+  },
+  "keywords": [
+    "slushgenerator"
+  ],
+  "author": "Andrew DeLisa <andrew@bulletlogic.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayan4m1/mistack/issues"
+  },
+  "homepage": "https://github.com/ayan4m1/mistack#readme"
+}
